@@ -3,7 +3,7 @@
 O exercício escolhido foi o "Biblioteca Ágil". Sobre seu desenvolvimento, seguem alguns comentários:
 
 
-##FUNDAMENTOS E ESCOLHAS:
+#FUNDAMENTOS E ESCOLHAS:
 
 - Foi usada a linguagem PHP por ser uma linguagem simples para a web, robusta, e de fácil entendimento e conexão com o banco de dados.
 
@@ -15,13 +15,13 @@ O exercício escolhido foi o "Biblioteca Ágil". Sobre seu desenvolvimento, segu
 o acesso e modificação dos dados.
 
 
-##FUNCIONAMENTO DO SISTEMA
+#FUNCIONAMENTO DO SISTEMA
 
 - O sistema foi feito pensando-se em sua usabilidade dentro da suposta biblioteca do bairro, onde a pessoa bibliotecária ou o próprio 
 indivíduo que deseja retirar/devolver um livro poderiam utilizá-lo.
 
 
-##OBSERVAÇÕES SOBRE AS FUNCIONALIDADES
+#OBSERVAÇÕES SOBRE AS FUNCIONALIDADES
 
 - Vale lembrar que o sistema é deveras simples, e serve apenas de resposta ao exercício fornecido. Lhe falta uma gestão completa de 
 usuários, que envolveriam novas tabelas no banco de dados e fatoração de mais código, o que sairia do escopo do exercício. Devido a isso,
@@ -31,7 +31,7 @@ foi feita a escolha do usuário simplesmente escrever seu nome no ato da retirad
 um mínimo de segurança no sistema. Sem essa funcionalidade, qualquer um poderia devolver todos os livros.
 
 
-##INSTALAÇÃO E CONFIGURAÇÃO
+#INSTALAÇÃO E CONFIGURAÇÃO
 
 -Para utilizar o sistema, é necessário possuir o XAMPP Apache instalado. Ele pode ser encontrado nesse link: 
 https://www.apachefriends.org/pt_br/index.html
@@ -48,9 +48,9 @@ https://www.apachefriends.org/pt_br/index.html
 
 - Após isso, basta acessar localhost/biblioteca e testar o sistema feito.
 
-##OBS: Caso ainda assim ocorra algum erro SQL, você pode checar as credenciais e informações do banco de dados no arquivo connection.php
+OBS: Caso ainda assim ocorra algum erro SQL, você pode checar as credenciais e informações do banco de dados no arquivo connection.php
 
-##REFERÊNCIAS VISUAIS:
+#REFERÊNCIAS VISUAIS:
 
 - https://codepen.io/bartekd/pen/qFsDf
 - https://codepen.io/atakan/pen/gqbIz
